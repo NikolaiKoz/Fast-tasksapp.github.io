@@ -1,0 +1,14 @@
+body{
+    background-image: url(./pexels-angela-roma-7319307.jpg);
+    background-size: cover;
+    
+}
+
+.navbar{
+    background-color: rgb(182, 198, 227);
+    border: 2px solid black;
+    border-radius: 5px;
+}
+
+
+
